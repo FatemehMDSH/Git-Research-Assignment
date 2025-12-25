@@ -18,3 +18,4 @@
 
 مستندسازی: تاریخچه تمام بحث‌ها و دلیل تغییرات برای همیشه در گیت‌هاب باقی می‌ماند.
 source: Gemini
+https://www.youtube.com/watch?v=24bJBqjjvBs
