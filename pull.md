@@ -14,4 +14,4 @@ Merge: تغییرات واکشی شده را در شاخه فعلی شما اد�
 
 نتیجه نهایی: دایرکتوری کاری شما کاملاً با نسخه موجود در سرور (Remote) همگام و به‌روز می‌شود.
 source: Gemini
-https://www.youtube.com/watch?v=yxvqLBHZfXk<img width="1046" height="449" alt="image" src="https://github.com/user-attachments/assets/0c3dfb0e-e1f9-4107-9a84-60d294a44cb5" />
+https://www.youtube.com/watch?v=yxvqLBHZfXk
